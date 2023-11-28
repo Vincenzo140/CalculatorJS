@@ -53,13 +53,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [OpenAI](https://www.openai.com/) for providing the GPT-3.5 model used in the development of this application.
-```
-
-Feel free to copy and paste this into your README file.
